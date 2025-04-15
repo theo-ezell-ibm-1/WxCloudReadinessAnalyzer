@@ -258,8 +258,8 @@ public final class util
 		// --- <<IS-START(splitFilePathOnFirstSeperator)>> ---
 		// @sigtype java 3.5
 		// [i] field:0:required inFilePath
-		// [o] field:0:required splitString1
-		// [o] field:0:required splitString2
+		// [o] field:0:required pathRoot
+		// [o] field:0:required subPath
 		IDataCursor pc = pipeline.getCursor();
 		String	inFilePath = IDataUtil.getString( pc, "inFilePath" );
 		try {

@@ -46,11 +46,6 @@
 			"comments": "XML Document Types are not supported."
 		},
 		{
-			"assetType": "reference-data",
-			"displayName": "Reference Data",
-			"comments": "Reference Data entities are not supported."
-		},
-		{
 			"assetType": "webServiceDescriptor",
 			"displayName": "WS Descriptor",
 			"comments": "Web Service Descriptors are not supported."
