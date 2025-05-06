@@ -2,46 +2,46 @@
   "compatibleAdapters" : [ 
   {
     "adapterTypeName" : "JDBCAdapter",
-    "adapterDisplayName" : "webMethods Adapter for JDBC",
+    "adapterDisplayName" : "IBM webMethods Adapter for JDBC",
     "adapterPackageName" : "WmJDBCAdapter"
   },
     {
     "adapterTypeName" : "WmSAP",
-    "adapterDisplayName" : "webMethods Adapter for SAP",
+    "adapterDisplayName" : "IBM webMethods Adapter for SAP",
     "adapterPackageName" : "WmSAP"
   }
 ,
   {
-    "adapterTypeName" : "WmKafkaAdapter",
-    "adapterDisplayName" : "webMethods Adapter for Apache Kafka",
+    "adapterTypeName" : "com.wm.adapter.wmkafka.KafkaAdapter",
+    "adapterDisplayName" : "IBM webMethods Adapter for Apache Kafka",
     "adapterPackageName" : "WmKafkaAdapter"
   }
 ,
   {
     "adapterTypeName" : "WmIBMPowerAdapter",
-    "adapterDisplayName" : "webMethods Adapter for IBM Power",
+    "adapterDisplayName" : "IBM webMethods Adapter for IBM Power",
     "adapterPackageName" : "WmIBMPowerAdapter"
   }
 ,
   {
     "adapterTypeName" : "WmHDFSAdapter",
-    "adapterDisplayName" : "webMethods Adapter for HDFS",
+    "adapterDisplayName" : "IBM webMethods Adapter for HDFS",
     "adapterPackageName" : "WmHDFSAdapter"
   }
 ,
   {
     "adapterTypeName" : "WmAS400",
-    "adapterDisplayName" : "webMethods Adapter for AS/400",
+    "adapterDisplayName" : "IBM webMethods Adapter for AS/400",
     "adapterPackageName" : "WmAS400"
   },
     {
     "adapterTypeName" : "WmPeopleSoftAdapter",
-    "adapterDisplayName" : "webMethods Adapter for PeopleSoft",
+    "adapterDisplayName" : "IBM webMethods Adapter for PeopleSoft",
     "adapterPackageName" : "WmPeopleSoftAdapter"
   },
     {
     "adapterTypeName" : "WmSharePointAdapter",
-    "adapterDisplayName" : "webMethods Adapter for SharePoint",
+    "adapterDisplayName" : "IBM webMethods Adapter for SharePoint",
     "adapterPackageName" : "WmSharePointAdapter"
   }
 
