@@ -6,7 +6,7 @@
 		},
 		{
 			"adapterTypeName": "JDBCAdapter",
-			"templateName": "StoredProcedure"
+			"templateName": "StoredProcedureWithSignature"
 		}
 	]
 }
